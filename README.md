@@ -5,6 +5,6 @@
 - 📫 How to reach me +212659797537
 
 <!---
-Lamzi-tec/Lamzi-tec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lamzi-tec/Lamzi-tec is a ✨ special ✨ repository because its `lamzi` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
